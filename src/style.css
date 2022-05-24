@@ -1,0 +1,28 @@
+.instagram {
+  width: 30vw;
+  object-fit: scale-down;
+}
+
+.story {
+  width: 75px;
+  height: 75px;
+  background: linear-gradient(45deg, gold, fuchsia);
+  z-index: -1;
+}
+.post {
+  width: 35px;
+  height: 35px;
+  background: linear-gradient(45deg, gold, fuchsia);
+  z-index: -1;
+}
+.font-story {
+  font-size: smaller;
+}
+.font-post {
+  font-size: smaller;
+}
+.icon-story {
+  color: rgb(0, 140, 255);
+  text-shadow: -1px -1px 0 rgb(255, 255, 255), 1px -1px 0 rgb(255, 255, 255),
+    -1px 1px 0 rgb(255, 255, 255), 1px 1px 0 rgb(255, 255, 255);
+}
